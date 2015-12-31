@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pencils>
+  <pencil>
+    <name>WHITE</name>
+    <number>001</number>
+  </pencil>
+  <pencil>
+    <name>CREAM</name>
+    <number>002</number>
+  </pencil>
+  <pencil>
+    <name>ZINC YELLOW</name>
+    <number>004</number>
+  </pencil>
+  <pencil>
+    <name>LEMON CADMIUM</name>
+    <number>005</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT CHROME</name>
+    <number>006</number>
+  </pencil>
+  <pencil>
+    <name>LEMON</name>
+    <number>007</number>
+  </pencil>
+  <pencil>
+    <name>CANARY YELLOW</name>
+    <number>008</number>
+  </pencil>
+  <pencil>
+    <name>ORANGE YELLOW</name>
+    <number>009</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT ORANGE</name>
+    <number>013</number>
+  </pencil>
+  <pencil>
+    <name>DARK ORANGE</name>
+    <number>015</number>
+  </pencil>
+  <pencil>
+    <name>VERMILION</name>
+    <number>017</number>
+  </pencil>
+  <pencil>
+    <name>SCARLET LAKE</name>
+    <number>018</number>
+  </pencil>
+  <pencil>
+    <name>PALE GERANIUM LAKE</name>
+    <number>021</number>
+  </pencil>
+  <pencil>
+    <name>ROSE CARMINE</name>
+    <number>024</number>
+  </pencil>
+  <pencil>
+    <name>DARK CARMINE</name>
+    <number>026</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT CARMINE</name>
+    <number>027</number>
+  </pencil>
+  <pencil>
+    <name>ROSE MADDER LAKE</name>
+    <number>028</number>
+  </pencil>
+  <pencil>
+    <name>PINK MADDER LAKE</name>
+    <number>029</number>
+  </pencil>
+  <pencil>
+    <name>DARK FLESH</name>
+    <number>030</number>
+  </pencil>
+  <pencil>
+    <name>MEDIUM FLESH</name>
+    <number>031</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT FLESH</name>
+    <number>032</number>
+  </pencil>
+  <pencil>
+    <name>WINE RED</name>
+    <number>033</number>
+  </pencil>
+  <pencil>
+    <name>MAGENTA</name>
+    <number>034</number>
+  </pencil>
+  <pencil>
+    <name>RED VIOLET</name>
+    <number>035</number>
+  </pencil>
+  <pencil>
+    <name>DARK VIOLET</name>
+    <number>036</number>
+  </pencil>
+  <pencil>
+    <name>BLUE VIOLET</name>
+    <number>037</number>
+  </pencil>
+  <pencil>
+    <name>VIOLET</name>
+    <number>038</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT VIOLET</name>
+    <number>039</number>
+  </pencil>
+  <pencil>
+    <name>DELFT BLUE</name>
+    <number>041</number>
+  </pencil>
+  <pencil>
+    <name>DEEP COBALT</name>
+    <number>043</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT COBALT</name>
+    <number>044</number>
+  </pencil>
+  <pencil>
+    <name>SKY BLUE</name>
+    <number>046</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT BLUE</name>
+    <number>047</number>
+  </pencil>
+  <pencil>
+    <name>TRUE BLUE</name>
+    <number>048</number>
+  </pencil>
+  <pencil>
+    <name>ORIENTAL BLUE</name>
+    <number>049</number>
+  </pencil>
+  <pencil>
+    <name>PARIS BLUE</name>
+    <number>050</number>
+  </pencil>
+  <pencil>
+    <name>PRUSSIAN BLUE</name>
+    <number>051</number>
+  </pencil>
+  <pencil>
+    <name>PEACOCK BLUE</name>
+    <number>053</number>
+  </pencil>
+  <pencil>
+    <name>AQUAMARINE</name>
+    <number>054</number>
+  </pencil>
+  <pencil>
+    <name>NIGHT GREEN</name>
+    <number>055</number>
+  </pencil>
+  <pencil>
+    <name>SEA GREEN</name>
+    <number>058</number>
+  </pencil>
+  <pencil>
+    <name>HOOKERS GREEN</name>
+    <number>059</number>
+  </pencil>
+  <pencil>
+    <name>VIRIDIAN</name>
+    <number>061</number>
+  </pencil>
+  <pencil>
+    <name>TRUE GREEN</name>
+    <number>062</number>
+  </pencil>
+  <pencil>
+    <name>EMERALD GREEN</name>
+    <number>063</number>
+  </pencil>
+  <pencil>
+    <name>JUNIPER GREEN</name>
+    <number>065</number>
+  </pencil>
+  <pencil>
+    <name>SAP GREEN</name>
+    <number>067</number>
+  </pencil>
+  <pencil>
+    <name>MOSS GREEN</name>
+    <number>068</number>
+  </pencil>
+  <pencil>
+    <name>APPLE GREEN</name>
+    <number>070</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT GREEN</name>
+    <number>071</number>
+  </pencil>
+  <pencil>
+    <name>GREY GREEN</name>
+    <number>072</number>
+  </pencil>
+  <pencil>
+    <name>OLIVE GREEN</name>
+    <number>073</number>
+  </pencil>
+  <pencil>
+    <name>CEDAR GREEN</name>
+    <number>074</number>
+  </pencil>
+  <pencil>
+    <name>DARK SEPIA</name>
+    <number>075</number>
+  </pencil>
+  <pencil>
+    <name>VAN DYCK BROWN</name>
+    <number>076</number>
+  </pencil>
+  <pencil>
+    <name>RAW UMBER</name>
+    <number>080</number>
+  </pencil>
+  <pencil>
+    <name>BROWN OCHRE</name>
+    <number>082</number>
+  </pencil>
+  <pencil>
+    <name>GOLD OCHRE</name>
+    <number>083</number>
+  </pencil>
+  <pencil>
+    <name>OCHRE</name>
+    <number>084</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT OCHRE</name>
+    <number>085</number>
+  </pencil>
+  <pencil>
+    <name>BURNT OCHRE</name>
+    <number>087</number>
+  </pencil>
+  <pencil>
+    <name>CINNAMON</name>
+    <number>089</number>
+  </pencil>
+  <pencil>
+    <name>VENETIAN RED</name>
+    <number>090</number>
+  </pencil>
+  <pencil>
+    <name>POMPEIAN RED</name>
+    <number>091</number>
+  </pencil>
+  <pencil>
+    <name>INDIAN RED</name>
+    <number>092</number>
+  </pencil>
+  <pencil>
+    <name>BURNT CARMINE</name>
+    <number>093</number>
+  </pencil>
+  <pencil>
+    <name>PURPLE</name>
+    <number>094</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT GREY</name>
+    <number>095</number>
+  </pencil>
+  <pencil>
+    <name>SILVER GREY</name>
+    <number>096</number>
+  </pencil>
+  <pencil>
+    <name>MEDIUM GREY</name>
+    <number>097</number>
+  </pencil>
+  <pencil>
+    <name>DARK GREY</name>
+    <number>098</number>
+  </pencil>
+  <pencil>
+    <name>BLACK</name>
+    <number>099</number>
+  </pencil>
+  <pencil>
+    <name>LIGHT GREY WARM</name>
+    <number>195</number>
+  </pencil>
+  <pencil>
+    <name>SILVER GREY WARM</name>
+    <number>196</number>
+  </pencil>
+  <pencil>
+    <name>MEDIUM GREY WARM</name>
+    <number>197</number>
+  </pencil>
+  <pencil>
+    <name>DARK GREY WARM</name>
+    <number>198</number>
+  </pencil>
+  <pencil>
+    <name>BLACK SOFT</name>
+    <number>199</number>
+  </pencil>
+  <pencil>
+    <name>BLACK HARD</name>
+    <number>299</number>
+  </pencil>
+</pencils>
